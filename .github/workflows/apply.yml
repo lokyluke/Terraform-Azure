@@ -4,7 +4,7 @@ on: [workflow_dispatch]
 
 defaults:
   run:
-    working-directory: ./Single-Region-Azure-BaseLab
+    working-directory: ./Dual-Region-Azure-BaseLab
 
 jobs:
   terraform:
